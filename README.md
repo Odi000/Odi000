@@ -27,7 +27,7 @@
 
 # 📈 Stats
 <div style="text-align: center;">
-    <img src="//github-readme-streak-stats.herokuapp.com/?user=odi000&&theme=react&&hide_border=true" alt="Git-Statisctics"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=odi000&&theme=react&&hide_border=true" alt="Git-Statisctics"> 
 </div>
 
 <!--
