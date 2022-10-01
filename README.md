@@ -1,4 +1,34 @@
-### Hi there 👋
+# 🔧 Technologies & Tools
+
+<table>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3"><strong>CSS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"><strong>JavaScript</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"><strong>Node.js</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5"><strong>HTML5</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"><strong>Jest</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><strong>Git</strong>
+        </td>
+    </tr>
+</table>
+
+# 📈 Stats
+<div style="text-align: center;">
+    <img src="//github-readme-streak-stats.herokuapp.com/?user=odi000&&theme=react&&hide_border=true" alt="Git-Statisctics"> 
+</div>
 
 <!--
 **Odi000/Odi000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odi000&show_icons=true&theme=github_dark&&hide_border=true)
+
+<!--Proficency in this technologies-->
