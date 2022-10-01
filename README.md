@@ -11,6 +11,9 @@
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"><strong>Node.js</strong>
         </td>
+        <td align="center" rowspan="2">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=odi000&&theme=react&&hide_border=true" alt="Stats">
+        </td>
     </tr>
     <tr>
         <td align="center" height="108" width="108">
@@ -24,11 +27,6 @@
         </td>
     </tr>
 </table>
-
-# 📈 Stats
-<div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=odi000&&theme=react&&hide_border=true" alt="Git-Statisctics"> 
-</div>
 
 <!--
 **Odi000/Odi000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
