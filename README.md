@@ -25,11 +25,15 @@
         </td>
     </tr>
     <tr>
-        <td align="center" height="108" width="108"></td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"/><strong>Npm</strong>
+        </td>
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"><strong>Jest</strong>
         </td>
-        <td align="center" height="108" width="108"></td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/><strong>Bash</strong>
+        </td>
     </tr>
 </table>
 
