@@ -35,6 +35,14 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/><strong>Bash</strong>
         </td>
     </tr>
+    <tr>
+        <td>
+             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vitejs/vitejs-original.svg" alt="ViteJs"/><strong>Bash</strong>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/react/react-original.svg" alt="React"/><strong>Bash</strong>
+        </td>
+    </tr>
 </table>
 
 <!--
