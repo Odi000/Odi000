@@ -9,7 +9,7 @@
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"><strong>Node.js</strong>
         </td>
-        <td align="center" rowspan="3">
+        <td align="center" rowspan="4">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=odi000&&theme=react&&hide_border=true" alt="Stats">
         </td>
     </tr>
@@ -36,11 +36,14 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center" height="108" width="132">
              <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vitejs/vitejs-original.svg" alt="ViteJs"/><strong>Vite</strong>
         </td>
-        <td>
+        <td align="center" height="108" width="132">
             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/react/react-original.svg" alt="React"/><strong>React</strong>
+        </td>
+        <td align="center" height="108" width="132">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/reactrouter/reactrouter-original.svg" alt="React"/><strong>React-Router</strong>
         </td>
     </tr>
 </table>
