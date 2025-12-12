@@ -37,10 +37,10 @@
     </tr>
     <tr>
         <td>
-             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vitejs/vitejs-original.svg" alt="ViteJs"/><strong>Bash</strong>
+             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vitejs/vitejs-original.svg" alt="ViteJs"/><strong>Vite</strong>
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/react/react-original.svg" alt="React"/><strong>Bash</strong>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/react/react-original.svg" alt="React"/><strong>React</strong>
         </td>
     </tr>
 </table>
